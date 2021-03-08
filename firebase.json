@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "mithilesh-kumar-jha",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
